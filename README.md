@@ -1,7 +1,3 @@
-Here's a sample README file for your hand gesture recognition project, explaining how the code works and how to set it up.
-
----
-
 # Hand Gesture Recognition with ASL and ARSL
 
 This project implements a hand gesture recognition system using computer vision and machine learning models to classify American Sign Language (ASL) and Arabic Sign Language (ARSL) gestures. It utilizes OpenCV, Mediapipe, and deep learning models to detect and classify hand gestures in real-time from webcam input.
